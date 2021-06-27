@@ -1,4 +1,4 @@
-module github.com/HirbodBehnam/RedditDownloaderBot
+module github.com/Theheirofzeus/RedditDownloaderBot
 
 go 1.16
 
